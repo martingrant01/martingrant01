@@ -1,7 +1,6 @@
 ### Hi there, my name is Martin 👋
-- 🌱 I’m currently working as a DevOps Engineer at Illuminance Labs.
-- 🔭 I really like learning new technologies, currently I'm dedicating my time to deepen my knowledge about Amazon Web Services (AWS), also playing around with Docker and Kubernetes to see into containerization, container orchestration more.
-- 📫 For further information about myself please contact me in my email: martin01grant@gmail.com
+- 🌱 I’m currently working as a DevOps Engineer
+- 📫 For further information about myself please contact me in my email: develop-martin01@pm.me
 
 <!--
 **martingrant01/martingrant01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
